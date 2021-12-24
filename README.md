@@ -1,4 +1,4 @@
-# About
+# Sobre
 
 Sou um nerd assíduo por conhecimentos diversos. Tecnologia, jogos e comportamento humano são constantes em meus estudos diários.
 
@@ -14,7 +14,7 @@ Atualmente sou Coordenador e Docente dos cursos de TI na [YDUQS] (https://www.yd
 
 No momento, também **procuro de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity**.
 
-# How to reach me
+# Contatos
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/almeidajadson/">
