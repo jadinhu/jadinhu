@@ -16,8 +16,6 @@ No momento, também **procuro de uma oportunidade** para atuar entre 20 a 30 hor
 
 # How to reach me
 
-📫 jadson.sistemas@gmail.com
-
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/almeidajadson/">
          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" title="Linkedin"/> </a>
