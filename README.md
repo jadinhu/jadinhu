@@ -21,11 +21,11 @@ No momento, também **procuro de uma oportunidade** para atuar entre 20 a 30 hor
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/almeidajadson/">
          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" title="Linkedin"/> </a>
-    <a href="mailto:jadson.sistemas@gmail.com">&nbsp;
+    <a href="mailto:jadson.sistemas@gmail.com">&nbsp;&nbsp;
          <img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="50" height="50" title="Gmail"/> </a>
-    <a href="https://www.instagram.com/jadoalmeida/">&nbsp;
+    <a href="https://www.instagram.com/jadoalmeida/">&nbsp;&nbsp;
          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" title="Instagram"/> </a>
-    <a href="https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view?usp=sharing">&nbsp;
+    <a href="https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view?usp=sharing">&nbsp;&nbsp;
          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5GVxG8Ly-tRtO5pyVqtUMZpppHjXs_cqqBg&usqp=CAU" width="50" height="50" title="Curriculum"/> </a>
 </div>
 
