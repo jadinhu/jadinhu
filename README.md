@@ -24,6 +24,6 @@ No momento, também **procuro de uma oportunidade** para atuar entre 20 a 30 hor
     <a href="https://www.instagram.com/jadoalmeida/">&nbsp;&nbsp;
          <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" title="Instagram"/> </a>
     <a href="https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view?usp=sharing">&nbsp;&nbsp;
-         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5GVxG8Ly-tRtO5pyVqtUMZpppHjXs_cqqBg&usqp=CAU" width="50" height="50" title="Curriculum"/> </a>
+         <img src="https://www.kindpng.com/picc/m/20-200091_curriculum-vitae-png-transparent-png.png" width="50" height="50" title="Curriculum"/> </a>
 </div>
 
