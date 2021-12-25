@@ -2,17 +2,15 @@
 
 Sou um nerd assíduo por conhecimentos diversos. Tecnologia, jogos e comportamento humano são constantes em meus estudos diários.
 
-Sou carismático e bem humorado, curioso, estrategista e proativo. Gosto de trabalhar com pessoas, metas e máquinas.
+Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de trabalhar com pessoas, metas e máquinas.
 
 # Carreira
 
-Iniciei a carreira como **desenvolvedor de jogos digitais**, me descobri como **docente** e fui descoberto como **gestor**.
-
-Atuo no mercado de **TI desde 2012** e no setor **acadêmico desde 2017**.
+Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018.
 
 Atualmente sou Coordenador e Docente dos cursos de TI na [YDUQS] (https://www.yduqs.com.br/ "YDUQS website") 
 
-No momento, também **procuro de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity**.
+No momento, também **procuro uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity** e/ou **Coordenador de Projetos**.
 
 # Contatos
 
