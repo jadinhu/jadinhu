@@ -6,7 +6,7 @@ Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de traba
 
 # Carreira
 
-Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018. Hoje sou Coordenador e Docente dos cursos de TI na [YDUQS](https://www.yduqs.com.br/ "YDUQS website"). Saiba mais acessando meu [Currículum](https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view "Currículum Vitae via Google Drive").
+Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018. Hoje sou Coordenador e Docente dos cursos de TI na **[YDUQS](https://www.yduqs.com.br/ "YDUQS website")**. Saiba mais acessando meu **[Currículum](https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view "Currículum Vitae via Google Drive")**.
 
 <img src="https://www.dropbox.com/s/wazqujc6b7qmx24/exclama%C3%A7%C3%A3o.jpg?raw=1" width="20" height="20" title="Oportunidade"/> Também estou à **procura de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity** e/ou **Coordenador de Projetos**. 
 
