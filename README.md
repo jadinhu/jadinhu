@@ -14,7 +14,7 @@ Também **procuro uma oportunidade** para atuar entre 20 a 30 horas semanalmente
 
 Saiba mais acessando meu [Currículum](https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view "Currículum Vitae via Google Drive").
 
-# Contato
+# Contatos
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/almeidajadson/">
