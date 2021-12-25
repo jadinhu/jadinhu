@@ -22,4 +22,3 @@ Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri
    <a href="https://api.whatsapp.com/send/?phone=5581996692580">&nbsp;&nbsp;
          <img src="https://www.dropbox.com/s/b59frx1be6a00h3/whatsapp.png?raw=1" width="40" height="40" title="Whatsapp"/> </a>
 </div>
-
