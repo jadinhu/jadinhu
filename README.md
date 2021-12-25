@@ -6,18 +6,20 @@ Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de traba
 
 # Carreira
 
-Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018. Hoje sou Coordenador e Docente dos cursos de TI na [YDUQS](https://www.yduqs.com.br/ "YDUQS website").
+Iniciei a carreira como **desenvolvedor de jogos digitais** em 2013, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018. Hoje sou Coordenador e Docente dos cursos de TI na [YDUQS](https://www.yduqs.com.br/ "YDUQS website"). Saiba mais acessando meu [Currículum](https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view "Currículum Vitae via Google Drive").
 
-Também estou à **procura de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity** e/ou **Coordenador de Projetos**. Saiba mais acessando meu [Currículum](https://drive.google.com/file/d/1HSA3dCgKFJ0pahl0uEHp-83k0lG9qGZw/view "Currículum Vitae via Google Drive").
+<img src="https://www.dropbox.com/s/wazqujc6b7qmx24/exclama%C3%A7%C3%A3o.jpg?raw=1" width="20" height="20" title="Oportunidade"/> Também estou à **procura de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity** e/ou **Coordenador de Projetos**. 
 
 # Contatos
 
 <div id="banner" style="overflow: hidden; display: flex; justify-content: space-around;">
   <a href="https://www.linkedin.com/in/almeidajadson/">
-         <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" height="50" title="Linkedin"/> </a>
+         <img src="https://www.dropbox.com/s/q2ndm0wb7ysncx6/linkedin.png?raw=1" width="40" height="40" title="Linkedin"/> </a>
     <a href="mailto:jadson.sistemas@gmail.com">&nbsp;&nbsp;
-         <img src="https://imagepng.org/wp-content/uploads/2018/03/gmail-cone-icon.png" width="50" height="50" title="Gmail"/> </a>
+         <img src="https://www.dropbox.com/s/d4720pcu06uxgws/gmail.png?raw=1" width="40" height="40" title="Gmail"/> </a>
     <a href="https://www.instagram.com/jadoalmeida/">&nbsp;&nbsp;
-         <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="50" height="50" title="Instagram"/> </a>
+         <img src="https://www.dropbox.com/s/uczgqfl8g60g5ow/instagram.png?raw=1" width="40" height="40" title="Instagram"/> </a>
+   <a href="https://api.whatsapp.com/send/?phone=5581996692580">&nbsp;&nbsp;
+         <img src="https://www.dropbox.com/s/b59frx1be6a00h3/whatsapp.png?raw=1" width="40" height="40" title="Whatsapp"/> </a>
 </div>
 
