@@ -1,6 +1,6 @@
 # Sobre
 
-Sou um nerd assíduo por conhecimentos diversos. Tecnologia, jogos, filosofia e comportamento humano são constantes em meus estudos diários.
+Sou um nerd assíduo por conhecimentos diversos. Tecnologia, videogames, RPG, filosofia e comportamento humano são constantes em meu dia a dia.
 
 Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de trabalhar com pessoas, metas e máquinas.
 
