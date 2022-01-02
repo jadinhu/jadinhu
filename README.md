@@ -1,4 +1,4 @@
-# Pessoa
+# Sobre
 
 Sou um nerd assíduo por conhecimentos diversos. Tecnologia, jogos, filosofia e comportamento humano são constantes em meus estudos diários.
 
