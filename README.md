@@ -8,7 +8,7 @@ Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de traba
 
 Iniciei a carreira como **analista de sistemas estagiário** em 2012, decidi ser **desenvolvedor de jogos digitais** em 2015 fundando a Mantus Studio, me descobri como **docente** em 2017 e fui descoberto como **gestor** em 2018. Hoje sou coordenador e docente dos cursos de TI no maior grupo de educação superior do Brasil **([YDUQS](https://www.yduqs.com.br/ "YDUQS website"))** e desenvolvedor **[Unity3D](https://unity3d.com/ "Unity3D website")** como freelancer. Saiba mais acessando meu **[Currículum](https://drive.google.com/file/d/1hWEbSnlUCgO7upfm6KacJ_uv1Qq3qGqr/view "Currículum Vitae via Google Drive")**.
 
-<img src="https://www.dropbox.com/s/wazqujc6b7qmx24/exclama%C3%A7%C3%A3o.jpg?raw=1" width="20" height="20" title="Oportunidade"/> Estou à **procura de uma oportunidade** para atuar entre 20 a 30 horas semanalmente como **Desenvolvedor Unity** e/ou **Coordenador de Projetos**. 
+<img src="https://www.dropbox.com/s/wazqujc6b7qmx24/exclama%C3%A7%C3%A3o.jpg?raw=1" width="20" height="20" title="Oportunidade"/> Constantemente **procuro oportunidades** para atuar como **Desenvolvedor Unity** e **Coordenador de Projetos**. 
 
 # Contatos
 
