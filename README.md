@@ -6,7 +6,7 @@ Sou carismático, bem humorado, curioso, estrategista e proativo. Gosto de traba
 
 # Carreira
 
-Iniciei a carreira como analista de sistemas estagiário em 2012, decidi ser desenvolvedor de jogos digitais em 2015 fundando a Mantus Studio, me descobri como docente em 2017 e fui descoberto como gestor em 2018. Hoje sou **Senior Game Programmer** na **[Space Sheep Games](https://www.spacesheepgames.com/ "SSG website")** e também **coordenador e docente** dos cursos de TI no maior grupo de educação superior do Brasil **([YDUQS](https://www.yduqs.com.br/ "YDUQS website"))** e desenvolvedor **[Unity3D](https://unity3d.com/ "Unity3D website")** como freelancer. Saiba mais acessando minhas redes sociais abaixo.
+Iniciei a carreira como analista de sistemas estagiário em 2012, decidi ser desenvolvedor de jogos digitais em 2015 fundando a Mantus Studio, me descobri como docente em 2017 e fui descoberto como gestor em 2018. Hoje sou **Senior Game Programmer** de freelancer e também **Professor Titular** dos cursos de TI e jogos digitais numa das melhores instituições de ensino superior do Brasil **([Uninter](https://www.uninter.com/ "Uninter website"))**. Saiba mais acessando minhas redes sociais abaixo.
 
 # Contatos
 
